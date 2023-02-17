@@ -1,4 +1,5 @@
 # News-Homepage
+<h3> Screenshot </h3>
 <img src="news-screen1.png" width="600px">
 
 
