@@ -61,7 +61,7 @@ I mostly used Grid system but Flexbox was usefull time to time.
 
 ## Acknowledgments
 
-- Kevin Powell video tutorials and online courses helped me to fix some problems. Mostly mobile navigation menu. 
+- Kevin Powell video tutorials and online courses helped me to fix some problems. Mostly mobile navigation menu.
 
 
 
